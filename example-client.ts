@@ -123,6 +123,5 @@ export class ExampleClient{
 
       return this.getCount();
   }
-
 }
 

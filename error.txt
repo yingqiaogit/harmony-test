@@ -1,2 +1,1 @@
 1) owner part is still not working
-2) jumpTo(10) make the count become 'a' instead of '10'
